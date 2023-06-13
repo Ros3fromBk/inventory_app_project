@@ -1,0 +1,12 @@
+[
+    {
+        "princeInCents": 1,
+        "name": "bear",
+        "inStock": false
+    },
+    {
+        "princeInCents": 2,
+        "name": "dog",
+        "inStock": true
+    }
+]

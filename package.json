@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2"
+  },
+  "name": "project-command-line-inventory-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "supplies":"node supplies", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rose",
+  "license": "ISC",
+  "description": "Rosey Shopping Galore App"
+}
